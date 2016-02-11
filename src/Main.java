@@ -1,3 +1,5 @@
+import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
+
 import java.util.Scanner;
 
 /**
@@ -5,9 +7,19 @@ import java.util.Scanner;
  */
 public class Main {
     public static Scanner scanner = new Scanner(System.in);
-    public static void main(String[] args) {
+    public static Song song = new Song();
 
+    public static void main(String[] args) {
+        try {
+            song =
+        }
     }
+
+
+
+
+
+
 }
 
 
